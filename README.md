@@ -16,10 +16,6 @@
 
 <br />
 
-### Desktop Preview
-
-https://github.com/satwikdg/nextgenflix.org/assets/118673866/6bd4a657-9c8a-406a-b733-1b8d1013c593
-
 
 ### Prerequisites
 
